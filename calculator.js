@@ -1,0 +1,14 @@
+events("one");
+events("two");
+events("three");
+events("four");
+events("five");
+events("six");
+events("seven");
+events("eight");
+events("nine");
+events("zero");
+events("sum");
+events("sub");
+events("division");
+events("mul");
